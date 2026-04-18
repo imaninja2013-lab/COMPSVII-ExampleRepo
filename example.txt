@@ -6,3 +6,8 @@ My Grocery List
 - Butter
 - Sugar
 - Lemons
+- Chicken
+- Burgers
+- Beef  
+- Lettuce
+- Taco Shells

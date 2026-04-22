@@ -3,3 +3,5 @@ My Grocery List
 - Bananas
 - Chicken
 - Burgers
+- Lettuce
+- Onions
